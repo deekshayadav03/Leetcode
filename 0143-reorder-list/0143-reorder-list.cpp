@@ -33,12 +33,10 @@ ListNode* reverse(ListNode* head){
          slow->next=NULL;
          tail= reverse(tail);
           ListNode* curr= head;
-         ListNode* prev= NULL;
-         ListNode* nxt= NULL;
-          ListNode* tnxt=NULL;
+    
      while(curr!=NULL&&tail!=NULL){
-        nxt= curr->next;
-        tnxt= tail->next;
+         ListNode*  nxt= curr->next;
+      ListNode*   tnxt= tail->next;
         tail->next=NULL;
         curr->next= tail;
         curr= curr->next;
