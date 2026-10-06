@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/deekshayadav03/Leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/deekshayadav03/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deekshayadav03/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/deekshayadav03/Leetcode/tree/master/0202-happy-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/deekshayadav03/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/deekshayadav03/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/deekshayadav03/Leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deekshayadav03/Leetcode/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/deekshayadav03/Leetcode/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deekshayadav03/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/deekshayadav03/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
