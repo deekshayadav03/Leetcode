@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/deekshayadav03/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/deekshayadav03/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/deekshayadav03/Leetcode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/deekshayadav03/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deekshayadav03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/deekshayadav03/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/deekshayadav03/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/deekshayadav03/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/deekshayadav03/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/deekshayadav03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/deekshayadav03/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/deekshayadav03/Leetcode/tree/master/0525-contiguous-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/deekshayadav03/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0229-majority-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/deekshayadav03/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deekshayadav03/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deekshayadav03/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -213,8 +216,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/deekshayadav03/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/deekshayadav03/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
