@@ -7,13 +7,13 @@ public:
         sort(nums.begin(),nums.end());
         int n = nums.size();
         for (int i =0; i<n;){
-            int count=1;
-            int j =i+1;
+            int count=0;
+            int j =i;
             while(j<n && nums[i]== nums[j]){
                 j++;
                 count++;
-            }
             if(count>n/2) return nums[i];
+            }
                 i=j;
         }
         // int maxindex=0;
