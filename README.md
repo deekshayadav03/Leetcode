@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/deekshayadav03/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/deekshayadav03/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/deekshayadav03/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/deekshayadav03/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/deekshayadav03/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/deekshayadav03/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/deekshayadav03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/deekshayadav03/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/deekshayadav03/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prefix Sum
 |  |
@@ -231,4 +234,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/deekshayadav03/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0229-majority-element-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
