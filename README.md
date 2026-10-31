@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deekshayadav03/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/deekshayadav03/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/deekshayadav03/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/deekshayadav03/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
