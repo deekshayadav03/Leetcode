@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/deekshayadav03/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/deekshayadav03/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/deekshayadav03/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/deekshayadav03/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deekshayadav03/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/deekshayadav03/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
