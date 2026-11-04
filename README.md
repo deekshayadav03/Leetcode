@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/deekshayadav03/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/deekshayadav03/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/deekshayadav03/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/deekshayadav03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/deekshayadav03/Leetcode/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/deekshayadav03/Leetcode/tree/master/0525-contiguous-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/deekshayadav03/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/deekshayadav03/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/deekshayadav03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/deekshayadav03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/deekshayadav03/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/deekshayadav03/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/deekshayadav03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/deekshayadav03/Leetcode/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
