@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/deekshayadav03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/deekshayadav03/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Design
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deekshayadav03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/deekshayadav03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/deekshayadav03/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deekshayadav03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/deekshayadav03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deekshayadav03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/deekshayadav03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## String Matching
 |  |
 | ------- |
