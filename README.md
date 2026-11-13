@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/deekshayadav03/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/deekshayadav03/Leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/deekshayadav03/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/deekshayadav03/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/deekshayadav03/Leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/deekshayadav03/Leetcode/tree/master/0202-happy-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/deekshayadav03/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/deekshayadav03/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/deekshayadav03/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/deekshayadav03/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/deekshayadav03/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deekshayadav03/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deekshayadav03/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/deekshayadav03/Leetcode/tree/master/1652-defuse-the-bomb) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/deekshayadav03/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
