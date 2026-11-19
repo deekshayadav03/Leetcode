@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/deekshayadav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/deekshayadav03/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deekshayadav03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/deekshayadav03/Leetcode/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/deekshayadav03/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deekshayadav03/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/deekshayadav03/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deekshayadav03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/deekshayadav03/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/deekshayadav03/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/deekshayadav03/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/deekshayadav03/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deekshayadav03/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/deekshayadav03/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/deekshayadav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/deekshayadav03/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/deekshayadav03/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/deekshayadav03/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deekshayadav03/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/deekshayadav03/Leetcode/tree/master/0067-add-binary) |
+| [0645-set-mismatch](https://github.com/deekshayadav03/Leetcode/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/deekshayadav03/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Simulation
 |  |
