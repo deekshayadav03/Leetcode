@@ -1,22 +1,23 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        vector<bool>visited(10002, 0);
-        int n = nums.size();
+        map<int, int>mp;
         int dupe=0;
-        for (int i =0; i<n; i++){
-            if(visited[nums[i]]){
+        for (int i =0; i<nums.size(); i++){
+            if(mp[nums[i]]==1){
                 dupe= nums[i];
                 break;
             }
-            visited[nums[i]]= true;
+            mp[nums[i]]++;
         }
         int sum=0;
-        for (int i =0; i<n; i++){
-           sum=sum+nums[i];;
+        for (int i =1; i<=nums.size(); i++){
+        sum+=i;
          }
-         int add= n*(n+1)/2;
-         int missing= (add+dupe)-sum;
-      return {dupe, missing};
+      for (int i =0; i<nums.size(); i++){
+        sum=sum-nums[i];;
+         }
+       sum= sum+dupe;
+      return {dupe, sum};
     }
 };
