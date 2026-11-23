@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/deekshayadav03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/deekshayadav03/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0518-coin-change-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/deekshayadav03/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deekshayadav03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/deekshayadav03/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -330,4 +331,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/deekshayadav03/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/deekshayadav03/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0518-coin-change-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0518-coin-change-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
