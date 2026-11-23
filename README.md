@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/deekshayadav03/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/deekshayadav03/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/deekshayadav03/Leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/deekshayadav03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/deekshayadav03/Leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/deekshayadav03/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/deekshayadav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -323,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/deekshayadav03/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/deekshayadav03/Leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
