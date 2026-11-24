@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/deekshayadav03/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/deekshayadav03/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/deekshayadav03/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/deekshayadav03/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deekshayadav03/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deekshayadav03/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/deekshayadav03/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/deekshayadav03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0518-coin-change-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/deekshayadav03/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/deekshayadav03/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
