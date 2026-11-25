@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/deekshayadav03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/deekshayadav03/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1971-find-if-path-exists-in-graph](https://github.com/deekshayadav03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/deekshayadav03/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/deekshayadav03/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1971-find-if-path-exists-in-graph](https://github.com/deekshayadav03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -346,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/deekshayadav03/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/deekshayadav03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/deekshayadav03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
