@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/deekshayadav03/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3360-stone-removal-game](https://github.com/deekshayadav03/Leetcode/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/deekshayadav03/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/deekshayadav03/Leetcode/tree/master/0067-add-binary) |
 | [1646-get-maximum-in-generated-array](https://github.com/deekshayadav03/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
+| [3360-stone-removal-game](https://github.com/deekshayadav03/Leetcode/tree/master/3360-stone-removal-game) |
 ## Depth-First Search
 |  |
 | ------- |
