@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/deekshayadav03/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/deekshayadav03/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/deekshayadav03/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/deekshayadav03/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/deekshayadav03/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/deekshayadav03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deekshayadav03/Leetcode/tree/master/0229-majority-element-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/deekshayadav03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/deekshayadav03/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/deekshayadav03/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deekshayadav03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/deekshayadav03/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deekshayadav03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/deekshayadav03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/deekshayadav03/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/deekshayadav03/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/deekshayadav03/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deekshayadav03/Leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/deekshayadav03/Leetcode/tree/master/0200-number-of-islands) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/deekshayadav03/Leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deekshayadav03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
