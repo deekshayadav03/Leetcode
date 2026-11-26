@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/deekshayadav03/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deekshayadav03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/deekshayadav03/Leetcode/tree/master/0645-set-mismatch) |
+| [0997-find-the-town-judge](https://github.com/deekshayadav03/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/deekshayadav03/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deekshayadav03/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/deekshayadav03/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/deekshayadav03/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/deekshayadav03/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0997-find-the-town-judge](https://github.com/deekshayadav03/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/deekshayadav03/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deekshayadav03/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1646-get-maximum-in-generated-array](https://github.com/deekshayadav03/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
@@ -364,5 +366,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/deekshayadav03/Leetcode/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/deekshayadav03/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deekshayadav03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
