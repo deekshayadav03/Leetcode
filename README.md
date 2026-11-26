@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/deekshayadav03/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deekshayadav03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/deekshayadav03/Leetcode/tree/master/0645-set-mismatch) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/deekshayadav03/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/deekshayadav03/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deekshayadav03/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/deekshayadav03/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/deekshayadav03/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deekshayadav03/Leetcode/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deekshayadav03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/deekshayadav03/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/deekshayadav03/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deekshayadav03/Leetcode/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deekshayadav03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/deekshayadav03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/deekshayadav03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/deekshayadav03/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/deekshayadav03/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
