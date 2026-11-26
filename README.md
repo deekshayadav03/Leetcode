@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/deekshayadav03/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/deekshayadav03/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/deekshayadav03/Leetcode/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/deekshayadav03/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deekshayadav03/Leetcode/tree/master/0733-flood-fill) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/deekshayadav03/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0997-find-the-town-judge](https://github.com/deekshayadav03/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/deekshayadav03/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/deekshayadav03/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/deekshayadav03/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/deekshayadav03/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deekshayadav03/Leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deekshayadav03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/deekshayadav03/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/deekshayadav03/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/deekshayadav03/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/deekshayadav03/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deekshayadav03/Leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deekshayadav03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/deekshayadav03/Leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/deekshayadav03/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/deekshayadav03/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deekshayadav03/Leetcode/tree/master/0733-flood-fill) |
 ## Bucket Sort
 |  |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/deekshayadav03/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/deekshayadav03/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/deekshayadav03/Leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deekshayadav03/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
